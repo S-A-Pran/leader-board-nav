@@ -348,4 +348,7 @@ media query part start
     .top-player h2{
         text-align: center;
     }
+    .copied{
+        padding-right: 0px;
+    }
 }
